@@ -1,8 +1,8 @@
 {
   "domain": "switchbot_press",
   "name": "SwitchBot_press",
-  "version":"0.8.0",
+  "version":"0.11.0",
   "documentation": "https://www.home-assistant.io/integrations/switchbot_press",
-  "requirements": ["PySwitchbot==0.8.0"],
-  "codeowners": ["@cagnulein"]
+  "requirements": ["PySwitchbot==0.11.0"],
+  "codeowners": ["@cagnulein", "@lapy"]
 }
